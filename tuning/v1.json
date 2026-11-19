@@ -1,0 +1,12 @@
+{
+  "v": 1,
+  "interstitial_grace_games": 2,
+  "interstitial_cooldown_s": 90,
+  "min_games_between_interstitials": 2,
+  "rewarded_immunity_s": 60,
+  "puzzle_banner": true,
+  "app_open": true,
+  "app_open_min_background_s": 120,
+  "offers_enabled": true,
+  "starter_offer": true
+}
